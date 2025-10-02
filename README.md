@@ -58,9 +58,3 @@ python voicebot.py
 ```
 ภาควิชาวิศวกรรมไฟฟ้า ก่อตั้งตั้งแต่ปี พ.ศ. 2550
 ```
-
-## Note
-
-* แนะนำให้ใส่ค่า `channel_secret`, `channel_access_token` และ config อื่น ๆ ใน `.env` ไฟล์ (ถ้ามีการเชื่อมต่อภายนอก)
-* การใช้ Google Speech Recognition ต้องต่ออินเทอร์เน็ต
-
