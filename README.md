@@ -34,7 +34,7 @@ pip install speechrecognition pygame gTTS langchain langchain-community langchai
 รันสคริปต์:
 
 ```bash
-python app.py
+python voicebot.py
 ```
 
 โปรแกรมจะ:
